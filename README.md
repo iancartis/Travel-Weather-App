@@ -38,7 +38,6 @@ For Geonames API (lat and long data):
 * baseURL 
 * userName 
 
-### Suggestions to Make Your Project Stand Out!
-In order to improve the project the indexscript.js process both the departure and arrival dates to show the end date and the length of trip
+
 
 
